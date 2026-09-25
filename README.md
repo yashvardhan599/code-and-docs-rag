@@ -4,6 +4,8 @@ Simple RAG system: **upload → extract/OCR → chunk → embed → Pinecone →
 
 ## Quick start
 
+Requires **Python 3.10 or above**.
+
 ```bash
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
